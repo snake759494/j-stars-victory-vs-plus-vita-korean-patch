@@ -1,0 +1,62 @@
+{
+"884": {
+"ko": "서포트",
+"kind": "label",
+"style": ""
+},
+"920": {
+"ko": "서포트",
+"kind": "label",
+"style": ""
+},
+"965": {
+"ko": "서포트",
+"kind": "label",
+"style": ""
+},
+"1001": {
+"ko": "서포트",
+"kind": "label",
+"style": ""
+},
+"951": {
+"ko": "메뉴",
+"kind": "label",
+"style": ""
+},
+"952": {
+"ko": "캐릭터 선택",
+"kind": "label",
+"style": ""
+},
+"953": {
+"ko": "배틀 정보",
+"kind": "label",
+"style": ""
+},
+"954": {
+"ko": "퀘스트 확인",
+"kind": "label",
+"style": ""
+},
+"1032": {
+"ko": "메뉴",
+"kind": "label",
+"style": ""
+},
+"1033": {
+"ko": "캐릭터 선택",
+"kind": "label",
+"style": ""
+},
+"1034": {
+"ko": "배틀 정보",
+"kind": "label",
+"style": ""
+},
+"1035": {
+"ko": "퀘스트 확인",
+"kind": "label",
+"style": ""
+}
+}

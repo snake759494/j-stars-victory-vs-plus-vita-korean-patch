@@ -1,0 +1,65 @@
+{
+ "version": "v1.0",
+ "date": "2026-11-15",
+ "game": "J-Stars Victory VS+ (North America) / PCSE00595 / PS Vita",
+ "target_dir": "ux0:app/PCSE00595/data/VITA/ (복호화된 게임 폴더 안의 파일)",
+ "xdelta_options": "xdelta3 -e -0 -S none -A (no compression, no secondary compression, no application header)",
+ "files": [
+  {
+   "target": "partition_op_game_vita.cpk",
+   "asset": "J-Stars_Victory_VS_Plus_Vita_KO_v1.0_game.xdelta",
+   "asset_size": 1912329,
+   "asset_sha256": "5c3b01f44b2cc517d50c645ef9420bd1c264781029c95582482d636fd306f792",
+   "source_size": 6028032,
+   "source_md5": "e338ef4d0143441fdd2841a30f4b49ce",
+   "source_sha1": "9826c7319a928bc95342e655e351cc0d56d880a8",
+   "source_sha256": "2ec7d812251564f3d70dc88353490456ab7c5d730ec5140ec818252e44b5b20d",
+   "output_size": 8806400,
+   "output_md5": "73038301a2a4405812ea1b264be87ee9",
+   "output_sha1": "c3665ac3e3f2021159226bff4e4ce2c3498046a9",
+   "output_sha256": "fde147a1e9039b1dc04aa9e04c2ac71ecaeb68ed9e41bf973027204151ebc333"
+  },
+  {
+   "target": "partition_op_battle_vita.cpk",
+   "asset": "J-Stars_Victory_VS_Plus_Vita_KO_v1.0_battle.xdelta",
+   "asset_size": 5166805,
+   "asset_sha256": "df251abc9a082dc6ed3c009c9081e4b6b76c98a452a980fecdf0cc87da146223",
+   "source_size": 37325896,
+   "source_md5": "98ad0ca3504cf3b83e9b396a5ff157ac",
+   "source_sha1": "876446e75ac3898b2a30948238c3ad45ec676856",
+   "source_sha256": "18e14c1df5936c8ff9ea382db440276cd2c05f6585d2f9165ac24fae1a8ab975",
+   "output_size": 46864384,
+   "output_md5": "6e9aeef2486959d6b3aba20b3689dc68",
+   "output_sha1": "4215b76306e4168515eceeccb40138262a1115ea",
+   "output_sha256": "2b6837605b2e0a4cff60399d8c188661ee66b5d3918714e974e976db053c5b43"
+  },
+  {
+   "target": "partition_op_progress_vita.cpk",
+   "asset": "J-Stars_Victory_VS_Plus_Vita_KO_v1.0_progress.xdelta",
+   "asset_size": 76300452,
+   "asset_sha256": "15894eee4f12a5c08a125c59ec9bfda4fd14a4209b50af625e949dbcc48b561a",
+   "source_size": 508703664,
+   "source_md5": "df5dcad6fcd13a48a4994028f81e26b3",
+   "source_sha1": "8d1cd1957a36a04f314e9017d0f4b86d743a7d55",
+   "source_sha256": "129d124747edfe649760ea89c66ef16f81dbdce345edd4941b2adc2e8afb64dc",
+   "output_size": 661522432,
+   "output_md5": "27733b48749388eceb1124b6cdc583af",
+   "output_sha1": "b31c932020589e23578d39a6c7d89187e8dfdc80",
+   "output_sha256": "3e9c8cbb09bbf1e47ff633bd7e13c2065a4014e8dc83a87f21f461118e1fa364"
+  },
+  {
+   "target": "partition_op_character_vita.cpk",
+   "asset": "J-Stars_Victory_VS_Plus_Vita_KO_v1.0_character.xdelta",
+   "asset_size": 26596306,
+   "asset_sha256": "9765992fd6cb8b7b4b1b1f126e33d8758eaabc06a11752f648cfafb93401624f",
+   "source_size": 413120528,
+   "source_md5": "26c8052d7a4bde77606e3bc194c53b2b",
+   "source_sha1": "c9d2b7caad2dd1037f91c0355cb2a6ca69724138",
+   "source_sha256": "f75a1c87caee3ac30b3d7a6d70e2f2f367042f116b243e8a6fca29265d88f090",
+   "output_size": 469581824,
+   "output_md5": "7be1d948cfddcb8635a9f576545fe911",
+   "output_sha1": "2529a8e2a4489bd5d383255069d2a64a59ee122f",
+   "output_sha256": "f9caf75ec5155b9fa79b552cd103824cd457af826a4c8fc7dbe907d9d119f09c"
+  }
+ ]
+}

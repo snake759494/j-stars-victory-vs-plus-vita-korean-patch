@@ -1,0 +1,74 @@
+{
+"117": {
+"ko": "캐릭터 타입",
+"kind": "label",
+"style": "흰색 굵은 이탤릭+검은 외곽선 이탤릭",
+"mode": "alpha"
+},
+"118": {
+"ko": "장비",
+"kind": "label",
+"style": "흰색 굵은 이탤릭+검은 외곽선 이탤릭",
+"mode": "alpha"
+},
+"119": {
+"ko": "플레이어",
+"kind": "label",
+"style": "흰색 굵은 이탤릭+검은 외곽선 이탤릭",
+"mode": "alpha"
+},
+"120": {
+"ko": "COM 레벨",
+"kind": "label",
+"style": "흰색 굵은 이탤릭+검은 외곽선 이탤릭",
+"mode": "alpha"
+},
+"128": {
+"ko": "체력 설정",
+"kind": "label",
+"style": "흰색 굵은 이탤릭+검은 외곽선 이탤릭",
+"mode": "alpha"
+},
+"137": {
+"ko": "COM 레벨",
+"kind": "label",
+"style": "흰색 굵은 이탤릭+검은 외곽선 이탤릭",
+"mode": "alpha"
+},
+"138": {
+"ko": "플레이어",
+"kind": "label",
+"style": "흰색 굵은 이탤릭+검은 외곽선 이탤릭",
+"mode": "alpha"
+},
+"139": {
+"ko": "팀",
+"kind": "label",
+"style": "흰색 굵은 이탤릭+검은 외곽선 이탤릭",
+"mode": "alpha"
+},
+"140": {
+"ko": "장비",
+"kind": "label",
+"style": "흰색 굵은 이탤릭+검은 외곽선 이탤릭",
+"mode": "alpha"
+},
+"193": {
+"ko": "파트너 결정!",
+"kind": "label",
+"style": "흰색 굵은 이탤릭+검은 외곽선 이탤릭",
+"mode": "alpha"
+},
+"233": {
+"ko": "파트너 정보",
+"kind": "label",
+"style": "흰색 굵은 이탤릭+검은 외곽선 이탤릭",
+"mode": "alpha"
+},
+"234": {
+"ko": "플레이어 정보",
+"kind": "label",
+"style": "흰색 굵은 이탤릭+검은 외곽선 이탤릭",
+"mode": "alpha"
+}
+}

@@ -1,0 +1,1595 @@
+{
+"0": {
+"ko": "루피",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"2": {
+"ko": "몽키 D. 루피",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "0_name"
+},
+"7": {
+"ko": "에이스",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"9": {
+"ko": "포트거스 D. 에이스",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "1_name"
+},
+"14": {
+"ko": "핸콕",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"16": {
+"ko": "보아 핸콕",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "2_name"
+},
+"21": {
+"ko": "아카이누",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"23": {
+"ko": "아카이누",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "3_name"
+},
+"28": {
+"ko": "나루토",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"30": {
+"ko": "우즈마키 나루토",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "4_name"
+},
+"31": {
+"ko": "우즈마키 나루토",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "4_name",
+"layer": "glow"
+},
+"36": {
+"ko": "사스케",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"38": {
+"ko": "우치하 사스케",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "5_name"
+},
+"39": {
+"ko": "우치하 사스케",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "5_name",
+"layer": "glow"
+},
+"44": {
+"ko": "마다라",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"46": {
+"ko": "우치하 마다라",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "6_name"
+},
+"47": {
+"ko": "우치하 마다라",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "6_name",
+"layer": "glow"
+},
+"52": {
+"ko": "손오공",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"54": {
+"ko": "손오공",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "7_name",
+"layer": "glow"
+},
+"55": {
+"ko": "손오공",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "7_name"
+},
+"60": {
+"ko": "프리저",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"62": {
+"ko": "프리저",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "8_name",
+"layer": "glow"
+},
+"63": {
+"ko": "프리저",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "8_name"
+},
+"68": {
+"ko": "베지터",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"70": {
+"ko": "베지터",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "9_name",
+"layer": "glow"
+},
+"71": {
+"ko": "베지터",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "9_name"
+},
+"76": {
+"ko": "유스케",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"77": {
+"ko": "우라메시 유스케",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "10_name_s"
+},
+"78": {
+"ko": "우라메시 유스케",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "10_name"
+},
+"79": {
+"ko": "우라메시 유스케",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "10_name",
+"layer": "glow"
+},
+"86": {
+"ko": "토구로",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"87": {
+"ko": "토구로 동생",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "11_name_s"
+},
+"88": {
+"ko": "토구로 동생",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "11_name"
+},
+"89": {
+"ko": "토구로 동생",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "11_name",
+"layer": "glow"
+},
+"96": {
+"ko": "히에이",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"97": {
+"ko": "히에이",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "12_name_s"
+},
+"98": {
+"ko": "히에이",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "12_name"
+},
+"99": {
+"ko": "히에이",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "12_name",
+"layer": "glow"
+},
+"106": {
+"ko": "토리코",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"109": {
+"ko": "토리코",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "13_name"
+},
+"114": {
+"ko": "제브라",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"117": {
+"ko": "제브라",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "14_name"
+},
+"122": {
+"ko": "이치고",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"125": {
+"ko": "쿠로사키 이치고",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "15_name"
+},
+"126": {
+"ko": "쿠로사키 이치고",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "15_name"
+},
+"127": {
+"ko": "쿠로사키 이치고",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "15_name",
+"layer": "glow"
+},
+"132": {
+"ko": "아이젠",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"135": {
+"ko": "아이젠 소스케",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "16_name"
+},
+"136": {
+"ko": "아이젠 소스케",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "16_name"
+},
+"137": {
+"ko": "아이젠 소스케",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "16_name",
+"layer": "glow"
+},
+"142": {
+"ko": "곤",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"146": {
+"ko": "곤 프릭스",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "17_name"
+},
+"147": {
+"ko": "곤 프릭스",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "17_name"
+},
+"152": {
+"ko": "키르아",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"156": {
+"ko": "키르아 조르딕",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "18_name"
+},
+"157": {
+"ko": "키르아 조르딕",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "18_name"
+},
+"165": {
+"ko": "제브라",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "14_name"
+},
+"170": {
+"ko": "제브라",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "14_name"
+},
+"175": {
+"ko": "제브라",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "14_name"
+},
+"177": {
+"ko": "켄신",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"179": {
+"ko": "히무라 켄신",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "22_name"
+},
+"180": {
+"ko": "히무라 켄신",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "22_name"
+},
+"188": {
+"ko": "시시오",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"190": {
+"ko": "시시오 마코토",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "23_name"
+},
+"191": {
+"ko": "시시오 마코토",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "23_name"
+},
+"199": {
+"ko": "세이야",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"213": {
+"ko": "켄시로",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"215": {
+"ko": "켄시로",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "25_name"
+},
+"216": {
+"ko": "켄시로",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "25_name"
+},
+"225": {
+"ko": "라오우",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"238": {
+"ko": "오가 & 베르",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"247": {
+"ko": "긴토키",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"259": {
+"ko": "메다카",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"263": {
+"ko": "쿠로카미 메다카",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "29_name"
+},
+"269": {
+"ko": "료츠",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"273": {
+"ko": "료츠 칸키치",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "30_name"
+},
+"278": {
+"ko": "아라레 & 갓짱",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"285": {
+"ko": "살선생",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"288": {
+"ko": "살선생",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "32_name"
+},
+"293": {
+"ko": "사이키",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"299": {
+"ko": "사이키 쿠스오",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "33_name"
+},
+"304": {
+"ko": "모모타로",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"306": {
+"ko": "츠루기 모모타로",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "34_name"
+},
+"311": {
+"ko": "보보보",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"313": {
+"ko": "보보보보 보보보",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "35_name"
+},
+"318": {
+"ko": "츠나 & 리본",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"322": {
+"ko": "사와다 츠나요시 & 리본",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "36_name"
+},
+"327": {
+"ko": "럭키맨",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"338": {
+"ko": "타로",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"341": {
+"ko": "야마다 타로",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "38_name"
+},
+"343": {
+"ko": "조나단",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"345": {
+"ko": "조나단 죠스타",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "39_name"
+},
+"352": {
+"ko": "죠셉",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"354": {
+"ko": "죠셉 죠스타",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "40_name"
+},
+"361": {
+"ko": "누베",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"364": {
+"ko": "누에노 메이스케",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "41_name"
+},
+"369": {
+"ko": "루피",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"371": {
+"ko": "몽키 D. 루피",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "0_name"
+},
+"376": {
+"ko": "에이스",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"378": {
+"ko": "포트거스 D. 에이스",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "1_name"
+},
+"383": {
+"ko": "핸콕",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"385": {
+"ko": "보아 핸콕",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "2_name"
+},
+"390": {
+"ko": "아카이누",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"392": {
+"ko": "아카이누",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "3_name"
+},
+"397": {
+"ko": "나루토",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"399": {
+"ko": "우즈마키 나루토",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "4_name"
+},
+"400": {
+"ko": "우즈마키 나루토",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "4_name",
+"layer": "glow"
+},
+"405": {
+"ko": "사스케",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"407": {
+"ko": "우치하 사스케",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "5_name"
+},
+"408": {
+"ko": "우치하 사스케",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "5_name",
+"layer": "glow"
+},
+"413": {
+"ko": "마다라",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"415": {
+"ko": "우치하 마다라",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "6_name"
+},
+"416": {
+"ko": "우치하 마다라",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "6_name",
+"layer": "glow"
+},
+"421": {
+"ko": "손오공",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"423": {
+"ko": "손오공",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "7_name",
+"layer": "glow"
+},
+"424": {
+"ko": "손오공",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "7_name"
+},
+"429": {
+"ko": "프리저",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"431": {
+"ko": "프리저",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "8_name",
+"layer": "glow"
+},
+"432": {
+"ko": "프리저",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "8_name"
+},
+"437": {
+"ko": "베지터",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"439": {
+"ko": "베지터",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "9_name",
+"layer": "glow"
+},
+"440": {
+"ko": "베지터",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "9_name"
+},
+"445": {
+"ko": "유스케",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"446": {
+"ko": "우라메시 유스케",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "10_name_s"
+},
+"447": {
+"ko": "우라메시 유스케",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "10_name"
+},
+"448": {
+"ko": "우라메시 유스케",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "10_name",
+"layer": "glow"
+},
+"455": {
+"ko": "토구로",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"456": {
+"ko": "토구로 동생",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "11_name_s"
+},
+"457": {
+"ko": "토구로 동생",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "11_name"
+},
+"458": {
+"ko": "토구로 동생",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "11_name",
+"layer": "glow"
+},
+"465": {
+"ko": "히에이",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"466": {
+"ko": "히에이",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "12_name_s"
+},
+"467": {
+"ko": "히에이",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "12_name"
+},
+"468": {
+"ko": "히에이",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "12_name",
+"layer": "glow"
+},
+"475": {
+"ko": "토리코",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"478": {
+"ko": "토리코",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "13_name"
+},
+"483": {
+"ko": "제브라",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"486": {
+"ko": "제브라",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "14_name"
+},
+"491": {
+"ko": "이치고",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"494": {
+"ko": "쿠로사키 이치고",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "15_name"
+},
+"495": {
+"ko": "쿠로사키 이치고",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "15_name"
+},
+"496": {
+"ko": "쿠로사키 이치고",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "15_name",
+"layer": "glow"
+},
+"501": {
+"ko": "아이젠",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"504": {
+"ko": "아이젠 소스케",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "16_name"
+},
+"505": {
+"ko": "아이젠 소스케",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "16_name"
+},
+"506": {
+"ko": "아이젠 소스케",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "16_name",
+"layer": "glow"
+},
+"511": {
+"ko": "곤",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"515": {
+"ko": "곤 프릭스",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "17_name"
+},
+"516": {
+"ko": "곤 프릭스",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "17_name"
+},
+"521": {
+"ko": "키르아",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"525": {
+"ko": "키르아 조르딕",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "18_name"
+},
+"526": {
+"ko": "키르아 조르딕",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "18_name"
+},
+"534": {
+"ko": "제브라",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "14_name"
+},
+"539": {
+"ko": "제브라",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "14_name"
+},
+"544": {
+"ko": "제브라",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "14_name"
+},
+"546": {
+"ko": "켄신",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"548": {
+"ko": "히무라 켄신",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "22_name"
+},
+"549": {
+"ko": "히무라 켄신",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "22_name"
+},
+"557": {
+"ko": "시시오",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"559": {
+"ko": "시시오 마코토",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "23_name"
+},
+"560": {
+"ko": "시시오 마코토",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "23_name"
+},
+"568": {
+"ko": "세이야",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"582": {
+"ko": "켄시로",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"584": {
+"ko": "켄시로",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "25_name"
+},
+"585": {
+"ko": "켄시로",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "25_name"
+},
+"594": {
+"ko": "라오우",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"607": {
+"ko": "오가 & 베르",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"616": {
+"ko": "긴토키",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"628": {
+"ko": "메다카",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"632": {
+"ko": "쿠로카미 메다카",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "29_name"
+},
+"638": {
+"ko": "료츠",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"642": {
+"ko": "료츠 칸키치",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "30_name"
+},
+"647": {
+"ko": "아라레 & 갓짱",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"654": {
+"ko": "살선생",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"657": {
+"ko": "살선생",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "32_name"
+},
+"662": {
+"ko": "사이키",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"668": {
+"ko": "사이키 쿠스오",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "33_name"
+},
+"673": {
+"ko": "모모타로",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"675": {
+"ko": "츠루기 모모타로",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "34_name"
+},
+"680": {
+"ko": "보보보",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"682": {
+"ko": "보보보보 보보보",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "35_name"
+},
+"687": {
+"ko": "츠나 & 리본",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"691": {
+"ko": "사와다 츠나요시 & 리본",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "36_name"
+},
+"696": {
+"ko": "럭키맨",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"707": {
+"ko": "타로",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"710": {
+"ko": "야마다 타로",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "38_name"
+},
+"712": {
+"ko": "조나단",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"714": {
+"ko": "조나단 죠스타",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "39_name"
+},
+"721": {
+"ko": "죠셉",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"723": {
+"ko": "죠셉 죠스타",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "40_name"
+},
+"730": {
+"ko": "누베",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"733": {
+"ko": "누에노 메이스케",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "41_name"
+},
+"823": {
+"ko": "제브라",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "14_name"
+},
+"162": {
+"ko": "쿠죠 죠타로",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"167": {
+"ko": "디오",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"172": {
+"ko": "다이",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"738": {
+"ko": "네우로",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"746": {
+"ko": "노가미 네우로",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "200_name"
+},
+"751": {
+"ko": "쿠마가와",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"756": {
+"ko": "쿠마가와 미소기",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "201_name"
+},
+"761": {
+"ko": "루키아",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"764": {
+"ko": "쿠치키 루키아",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "202_name"
+},
+"765": {
+"ko": "쿠치키 루키아",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "202_name"
+},
+"766": {
+"ko": "쿠치키 루키아",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "202_name",
+"layer": "glow"
+},
+"771": {
+"ko": "치토게",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"776": {
+"ko": "키리사키 치토게",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "203_name"
+},
+"781": {
+"ko": "히소카",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"785": {
+"ko": "히소카",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "204_name"
+},
+"786": {
+"ko": "히소카",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "204_name"
+},
+"791": {
+"ko": "에다지마",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"793": {
+"ko": "에다지마 헤이하치",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "205_name"
+},
+"798": {
+"ko": "카구라 & 사다하루",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"810": {
+"ko": "재규어",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"820": {
+"ko": "아사쿠라 요 & 아미다마루",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"825": {
+"ko": "쿠로코",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"827": {
+"ko": "쿠로코 테츠야",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "209_name"
+},
+"834": {
+"ko": "스케트단",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"836": {
+"ko": "스케트단",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "210_name"
+},
+"856": {
+"ko": "알렌",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"858": {
+"ko": "알렌 워커",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "212_name"
+},
+"868": {
+"ko": "히나타",
+"kind": "label",
+"style": "작은 이름 이탤릭",
+"mode": "alpha"
+},
+"874": {
+"ko": "히나타 쇼요",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "213_name"
+},
+"280": {
+"ko": "노리마키 아라레 & 갓짱",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "chara_031_tx_000"
+},
+"329": {
+"ko": "럭키맨",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "chara_029_tx_000",
+"layer": "glow"
+},
+"330": {
+"ko": "럭키맨",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "chara_029_tx_000"
+},
+"200": {
+"ko": "세이야",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "op_name_024",
+"layer": "glow"
+},
+"201": {
+"ko": "세이야",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "op_name_024"
+},
+"227": {
+"ko": "라오우",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "026_tx_000"
+},
+"228": {
+"ko": "라오우",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "026_tx_000"
+},
+"249": {
+"ko": "사카타 긴토키",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "chara_028_tx_000"
+},
+"250": {
+"ko": "사카타 긴토키",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "chara_028_tx_000"
+},
+"804": {
+"ko": "카구라 & 사다하루",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "chara_206_tx_000"
+},
+"805": {
+"ko": "카구라 & 사다하루",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "chara_206_tx_000",
+"layer": "glow"
+},
+"812": {
+"ko": "재규어 준이치",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "chara_207_tx_000",
+"layer": "glow"
+},
+"813": {
+"ko": "재규어 준이치",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "chara_207_tx_000"
+},
+"850": {
+"ko": "라라 사탈린 데빌룩",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "chara_211_tx_000"
+},
+"851": {
+"ko": "라라 사탈린 데빌룩",
+"kind": "title",
+"style": "캐릭터 이름",
+"mode": "alpha",
+"group": "chara_211_tx_000",
+"layer": "glow"
+}
+}
