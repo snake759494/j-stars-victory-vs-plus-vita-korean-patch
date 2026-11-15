@@ -1,5 +1,5 @@
 {
- "version": "v1.0",
+ "version": "v1.0.1",
  "date": "2026-11-15",
  "game": "J-Stars Victory VS+ (North America) / PCSE00595 / PS Vita",
  "target_dir": "ux0:app/PCSE00595/data/VITA/ (복호화된 게임 폴더 안의 파일)",
@@ -7,59 +7,59 @@
  "files": [
   {
    "target": "partition_op_game_vita.cpk",
-   "asset": "J-Stars_Victory_VS_Plus_Vita_KO_v1.0_game.xdelta",
-   "asset_size": 1912329,
-   "asset_sha256": "5c3b01f44b2cc517d50c645ef9420bd1c264781029c95582482d636fd306f792",
+   "asset": "J-Stars_Victory_VS_Plus_Vita_KO_v1.0.1_game.xdelta",
+   "asset_size": 374091,
+   "asset_sha256": "872f1002f986d210c616837ad8e35c617791d453a4f2e19f292418ef6265b7e2",
    "source_size": 6028032,
    "source_md5": "e338ef4d0143441fdd2841a30f4b49ce",
    "source_sha1": "9826c7319a928bc95342e655e351cc0d56d880a8",
    "source_sha256": "2ec7d812251564f3d70dc88353490456ab7c5d730ec5140ec818252e44b5b20d",
-   "output_size": 8806400,
-   "output_md5": "73038301a2a4405812ea1b264be87ee9",
-   "output_sha1": "c3665ac3e3f2021159226bff4e4ce2c3498046a9",
-   "output_sha256": "fde147a1e9039b1dc04aa9e04c2ac71ecaeb68ed9e41bf973027204151ebc333"
+   "output_size": 6727680,
+   "output_md5": "cc9dd230186d844d005f3f384f930cba",
+   "output_sha1": "e3e3bf873b4251a586fb293cc1c96bbe27b5f3db",
+   "output_sha256": "5417a5fef5c945fb90ad878f2c4085752ec7a462d0199752101bbde839683a47"
   },
   {
    "target": "partition_op_battle_vita.cpk",
-   "asset": "J-Stars_Victory_VS_Plus_Vita_KO_v1.0_battle.xdelta",
-   "asset_size": 5166805,
-   "asset_sha256": "df251abc9a082dc6ed3c009c9081e4b6b76c98a452a980fecdf0cc87da146223",
+   "asset": "J-Stars_Victory_VS_Plus_Vita_KO_v1.0.1_battle.xdelta",
+   "asset_size": 696154,
+   "asset_sha256": "29ec45f2bb54947f6f674f4ba1dec6a647bd75602d3c00976c4ae9ad9663a8bb",
    "source_size": 37325896,
    "source_md5": "98ad0ca3504cf3b83e9b396a5ff157ac",
    "source_sha1": "876446e75ac3898b2a30948238c3ad45ec676856",
    "source_sha256": "18e14c1df5936c8ff9ea382db440276cd2c05f6585d2f9165ac24fae1a8ab975",
-   "output_size": 46864384,
-   "output_md5": "6e9aeef2486959d6b3aba20b3689dc68",
-   "output_sha1": "4215b76306e4168515eceeccb40138262a1115ea",
-   "output_sha256": "2b6837605b2e0a4cff60399d8c188661ee66b5d3918714e974e976db053c5b43"
+   "output_size": 38901760,
+   "output_md5": "06b665db21c5d5b1a81541a79670e904",
+   "output_sha1": "15756e03c66bcded22b46ad50007c17f72628aa6",
+   "output_sha256": "cd3e67360d1766f4ade15bc907896de19703c44a76dd25a64d0c8e0c79b3c33b"
   },
   {
    "target": "partition_op_progress_vita.cpk",
-   "asset": "J-Stars_Victory_VS_Plus_Vita_KO_v1.0_progress.xdelta",
-   "asset_size": 76300452,
-   "asset_sha256": "15894eee4f12a5c08a125c59ec9bfda4fd14a4209b50af625e949dbcc48b561a",
+   "asset": "J-Stars_Victory_VS_Plus_Vita_KO_v1.0.1_progress.xdelta",
+   "asset_size": 32754864,
+   "asset_sha256": "c98e2f719a167938294f70582f3769f866ef4bc1f9477f1c5902f844bc89079a",
    "source_size": 508703664,
    "source_md5": "df5dcad6fcd13a48a4994028f81e26b3",
    "source_sha1": "8d1cd1957a36a04f314e9017d0f4b86d743a7d55",
    "source_sha256": "129d124747edfe649760ea89c66ef16f81dbdce345edd4941b2adc2e8afb64dc",
-   "output_size": 661522432,
-   "output_md5": "27733b48749388eceb1124b6cdc583af",
-   "output_sha1": "b31c932020589e23578d39a6c7d89187e8dfdc80",
-   "output_sha256": "3e9c8cbb09bbf1e47ff633bd7e13c2065a4014e8dc83a87f21f461118e1fa364"
+   "output_size": 542330880,
+   "output_md5": "c979ecebbf28c6676bdae12b967cacbb",
+   "output_sha1": "8af3c3df680ba9fa469598198558f13d01b0cbf5",
+   "output_sha256": "52b6d8d418627b362e29db0dd111c847e54037020ff9fb9e0692bef8739d902a"
   },
   {
    "target": "partition_op_character_vita.cpk",
-   "asset": "J-Stars_Victory_VS_Plus_Vita_KO_v1.0_character.xdelta",
-   "asset_size": 26596306,
-   "asset_sha256": "9765992fd6cb8b7b4b1b1f126e33d8758eaabc06a11752f648cfafb93401624f",
+   "asset": "J-Stars_Victory_VS_Plus_Vita_KO_v1.0.1_character.xdelta",
+   "asset_size": 10955081,
+   "asset_sha256": "0ba21b18421ae56420dd7e83a9df1e8331c54931af95fdc39c6236542af0e9bc",
    "source_size": 413120528,
    "source_md5": "26c8052d7a4bde77606e3bc194c53b2b",
    "source_sha1": "c9d2b7caad2dd1037f91c0355cb2a6ca69724138",
    "source_sha256": "f75a1c87caee3ac30b3d7a6d70e2f2f367042f116b243e8a6fca29265d88f090",
-   "output_size": 469581824,
-   "output_md5": "7be1d948cfddcb8635a9f576545fe911",
-   "output_sha1": "2529a8e2a4489bd5d383255069d2a64a59ee122f",
-   "output_sha256": "f9caf75ec5155b9fa79b552cd103824cd457af826a4c8fc7dbe907d9d119f09c"
+   "output_size": 424306688,
+   "output_md5": "e9a294cae9a3b1195befab3120db97c1",
+   "output_sha1": "41baadded51711c0f6066df405e398249f7964bf",
+   "output_sha256": "057094727b33ac3375c8a4d0cb6e86567912f323af3da0df3bcf0ccac567a9d9"
   }
  ]
 }

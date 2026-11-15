@@ -1,6 +1,6 @@
 # J스타즈 빅토리 VS+ PS Vita 한글패치
 
-PS Vita 북미판 **J-Stars Victory VS+ (PCSE00595)**용 비공식 한국어 패치입니다. J 어드벤처 스토리 대사, 메뉴·옵션, 캐릭터·기술 설명, 퀘스트·아이템·카드·칭호, 아케이드·빅토리 로드 문장까지 게임 안의 영어 문장 **17,534개 전체**를 한국어로 바꿨습니다. 게임 글꼴에 한글 1,235자를 넣고, 메뉴 제목·버튼·로딩 TIPS·캐릭터 이름 등 그림 글자 **1,472장**을 한글로 다시 그렸습니다. 현재 배포판은 **v1.0 (2026-11-15)**입니다.
+PS Vita 북미판 **J-Stars Victory VS+ (PCSE00595)**용 비공식 한국어 패치입니다. J 어드벤처 스토리 대사, 메뉴·옵션, 캐릭터·기술 설명, 퀘스트·아이템·카드·칭호, 아케이드·빅토리 로드 문장까지 게임 안의 영어 문장 **17,534개 전체**를 한국어로 바꿨습니다. 게임 글꼴에 한글 1,235자를 넣고, 메뉴 제목·버튼·로딩 TIPS·캐릭터 이름 등 그림 글자 **1,472장**을 한글로 다시 그렸습니다. 현재 배포판은 **v1.0.1 (2026-11-15)**입니다.
 
 [패치 다운로드](https://github.com/snake759494/j-stars-victory-vs-plus-vita-korean-patch/releases/latest) · [기술 설명](docs/TECHNICAL.md) · [재빌드](docs/BUILD.md) · [용어집](docs/GLOSSARY.md) · [변경 기록](CHANGELOG.md) · [권리 안내](RIGHTS.md)
 
@@ -20,14 +20,14 @@ PS Vita 북미판 **J-Stars Victory VS+ (PCSE00595)**용 비공식 한국어 패
 | 원본 `partition_op_battle_vita.cpk` | 37,325,896 B | `98ad0ca3504cf3b83e9b396a5ff157ac` | `18e14c1df5936c8ff9ea382db440276cd2c05f6585d2f9165ac24fae1a8ab975` |
 | 원본 `partition_op_progress_vita.cpk` | 508,703,664 B | `df5dcad6fcd13a48a4994028f81e26b3` | `129d124747edfe649760ea89c66ef16f81dbdce345edd4941b2adc2e8afb64dc` |
 | 원본 `partition_op_character_vita.cpk` | 413,120,528 B | `26c8052d7a4bde77606e3bc194c53b2b` | `f75a1c87caee3ac30b3d7a6d70e2f2f367042f116b243e8a6fca29265d88f090` |
-| 결과 `partition_op_game_vita.cpk` | 8,806,400 B | `73038301a2a4405812ea1b264be87ee9` | `fde147a1e9039b1dc04aa9e04c2ac71ecaeb68ed9e41bf973027204151ebc333` |
-| 결과 `partition_op_battle_vita.cpk` | 46,864,384 B | `6e9aeef2486959d6b3aba20b3689dc68` | `2b6837605b2e0a4cff60399d8c188661ee66b5d3918714e974e976db053c5b43` |
-| 결과 `partition_op_progress_vita.cpk` | 661,522,432 B | `27733b48749388eceb1124b6cdc583af` | `3e9c8cbb09bbf1e47ff633bd7e13c2065a4014e8dc83a87f21f461118e1fa364` |
-| 결과 `partition_op_character_vita.cpk` | 469,581,824 B | `7be1d948cfddcb8635a9f576545fe911` | `f9caf75ec5155b9fa79b552cd103824cd457af826a4c8fc7dbe907d9d119f09c` |
-| `J-Stars_Victory_VS_Plus_Vita_KO_v1.0_game.xdelta` | 1,912,329 B | `8a5e95f78c37e0e80d79de0f6dec4a11` | `5c3b01f44b2cc517d50c645ef9420bd1c264781029c95582482d636fd306f792` |
-| `J-Stars_Victory_VS_Plus_Vita_KO_v1.0_battle.xdelta` | 5,166,805 B | `85aacccb516a83b611ab6484e40c443a` | `df251abc9a082dc6ed3c009c9081e4b6b76c98a452a980fecdf0cc87da146223` |
-| `J-Stars_Victory_VS_Plus_Vita_KO_v1.0_progress.xdelta` | 76,300,452 B | `f26455736a8061edca4cb2fddae6c95b` | `15894eee4f12a5c08a125c59ec9bfda4fd14a4209b50af625e949dbcc48b561a` |
-| `J-Stars_Victory_VS_Plus_Vita_KO_v1.0_character.xdelta` | 26,596,306 B | `328fd26d54c06b33f701904c52163443` | `9765992fd6cb8b7b4b1b1f126e33d8758eaabc06a11752f648cfafb93401624f` |
+| 결과 `partition_op_game_vita.cpk` | 6,727,680 B | `cc9dd230186d844d005f3f384f930cba` | `5417a5fef5c945fb90ad878f2c4085752ec7a462d0199752101bbde839683a47` |
+| 결과 `partition_op_battle_vita.cpk` | 38,901,760 B | `06b665db21c5d5b1a81541a79670e904` | `cd3e67360d1766f4ade15bc907896de19703c44a76dd25a64d0c8e0c79b3c33b` |
+| 결과 `partition_op_progress_vita.cpk` | 542,330,880 B | `c979ecebbf28c6676bdae12b967cacbb` | `52b6d8d418627b362e29db0dd111c847e54037020ff9fb9e0692bef8739d902a` |
+| 결과 `partition_op_character_vita.cpk` | 424,306,688 B | `e9a294cae9a3b1195befab3120db97c1` | `057094727b33ac3375c8a4d0cb6e86567912f323af3da0df3bcf0ccac567a9d9` |
+| `J-Stars_Victory_VS_Plus_Vita_KO_v1.0.1_game.xdelta` | 374,091 B | `97b83107248e8cded8e9e18e6fc9d3b8` | `872f1002f986d210c616837ad8e35c617791d453a4f2e19f292418ef6265b7e2` |
+| `J-Stars_Victory_VS_Plus_Vita_KO_v1.0.1_battle.xdelta` | 696,154 B | `3ad7a9d5dfd08ab1d59b3b248fafecfa` | `29ec45f2bb54947f6f674f4ba1dec6a647bd75602d3c00976c4ae9ad9663a8bb` |
+| `J-Stars_Victory_VS_Plus_Vita_KO_v1.0.1_progress.xdelta` | 32,754,864 B | `52444e2ad2d8375c4eb586e238fddb8a` | `c98e2f719a167938294f70582f3769f866ef4bc1f9477f1c5902f844bc89079a` |
+| `J-Stars_Victory_VS_Plus_Vita_KO_v1.0.1_character.xdelta` | 10,955,081 B | `88b78f6aecc22a05bc2e5b38708e2f5c` | `0ba21b18421ae56420dd7e83a9df1e8331c54931af95fdc39c6236542af0e9bc` |
 
 SHA-1은 [release_manifest.json](release_manifest.json)에 있습니다. 원본 게임 파일은 사용자가 직접 준비해야 합니다. `eboot.bin`과 그 밖의 파일은 바꾸지 않습니다.
 
@@ -53,10 +53,10 @@ xdelta는 호환성을 위해 압축·2차 압축·파일 경로 헤더 없이 �
 ### 명령줄 사용
 
 ```powershell
-.\xdelta3.exe -d -s '.\partition_op_game_vita.cpk' '.\J-Stars_Victory_VS_Plus_Vita_KO_v1.0_game.xdelta' '.\ko\partition_op_game_vita.cpk'
-.\xdelta3.exe -d -s '.\partition_op_battle_vita.cpk' '.\J-Stars_Victory_VS_Plus_Vita_KO_v1.0_battle.xdelta' '.\ko\partition_op_battle_vita.cpk'
-.\xdelta3.exe -d -s '.\partition_op_progress_vita.cpk' '.\J-Stars_Victory_VS_Plus_Vita_KO_v1.0_progress.xdelta' '.\ko\partition_op_progress_vita.cpk'
-.\xdelta3.exe -d -s '.\partition_op_character_vita.cpk' '.\J-Stars_Victory_VS_Plus_Vita_KO_v1.0_character.xdelta' '.\ko\partition_op_character_vita.cpk'
+.\xdelta3.exe -d -s '.\partition_op_game_vita.cpk' '.\J-Stars_Victory_VS_Plus_Vita_KO_v1.0.1_game.xdelta' '.\ko\partition_op_game_vita.cpk'
+.\xdelta3.exe -d -s '.\partition_op_battle_vita.cpk' '.\J-Stars_Victory_VS_Plus_Vita_KO_v1.0.1_battle.xdelta' '.\ko\partition_op_battle_vita.cpk'
+.\xdelta3.exe -d -s '.\partition_op_progress_vita.cpk' '.\J-Stars_Victory_VS_Plus_Vita_KO_v1.0.1_progress.xdelta' '.\ko\partition_op_progress_vita.cpk'
+.\xdelta3.exe -d -s '.\partition_op_character_vita.cpk' '.\J-Stars_Victory_VS_Plus_Vita_KO_v1.0.1_character.xdelta' '.\ko\partition_op_character_vita.cpk'
 ```
 
 해시를 자동으로 검사하는 도구도 있습니다. Python 3와 xdelta3가 필요하며, 원본 CPK 4개와 xdelta 4개가 있는 폴더를 지정하면 결과를 출력 폴더에 만듭니다. 같은 이름의 출력 파일이 이미 있으면 덮어쓰지 않습니다.

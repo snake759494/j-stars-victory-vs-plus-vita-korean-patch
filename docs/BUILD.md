@@ -3,7 +3,7 @@
 ## 준비물
 
 - 원본 CPK 4개 (PCSE00595 복호화 게임 폴더의 `data/VITA/`): `partition_op_game_vita.cpk`, `partition_op_battle_vita.cpk`, `partition_op_progress_vita.cpk`, `partition_op_character_vita.cpk` (해시는 `release_manifest.json`)
-- Python 3.13, `Pillow`, `numpy`, `opencv-python`, `fontTools`
+- Python 3.13, `Pillow`, `numpy`, `numba`, `opencv-python`, `fontTools`
 - 글꼴: `docs/FONT_CREDITS.md`의 7개를 저장소 최상위 폴더에
 - xdelta3 (배포 파일을 만들 때만)
 

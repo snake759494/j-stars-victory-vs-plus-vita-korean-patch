@@ -12,7 +12,6 @@ W = os.path.join(R, 'work'); B = os.path.join(W, 'base')
 OUT = os.path.join(R, 'out')
 args = sys.argv[1:]
 if '--out' in args: OUT = args[args.index('--out') + 1]
-os.makedirs(OUT, exist_ok=True)
 NOTEX = '--notex' in args
 FONT_TTF = os.path.join(R, 'NanumSquareNeo-bRg.ttf')
 TEX_TTF = os.path.join(R, 'NanumSquareNeo-eHv.ttf')
