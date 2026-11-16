@@ -2,17 +2,19 @@ import struct, sys
 
 def parse(d):
     assert d[:4] == b'KPTS', d[:4]
-    ver, n, hs = struct.unpack('<III', d[4:16])
+    ver, n, al = struct.unpack('<III', d[4:16])
     ents = []
     for i in range(n):
         o = 16 + i * 0x30
         off, sz, a, b = struct.unpack('<IIII', d[o:o + 16])
         name = d[o + 16:o + 0x30].split(b'\0')[0].decode()
-        ents.append(dict(name=name, off=off, size=sz, a=a, b=b, data=d[off:off + sz]))
+        ents.append(dict(name=name, off=off, size=sz, a=a, b=b, data=d[off:off + sz], align=al))
     return ents
 
-def build(ents, align=0x40):
-    n = len(ents); hdr = bytearray(b'KPTS' + struct.pack('<III', 1, n, 0x40))
+def build(ents, align=None):
+    """rebuild keeping the original alignment (0x40 for _m paks, 0x1000 for texture _v paks)"""
+    if align is None: align = ents[0].get('align', 0x40) if ents else 0x40
+    n = len(ents); hdr = bytearray(b'KPTS' + struct.pack('<III', 1, n, align))
     pos = 16 + n * 0x30; pos = (pos + align - 1) // align * align
     body = bytearray(); offs = []
     for e in ents:
